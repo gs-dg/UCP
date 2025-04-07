@@ -1,0 +1,16 @@
+/* Style the tooltip box */
+.custom-tippy {
+    padding: 0 !important;  /* Remove extra padding */
+    border-radius: 6px !important;
+    background-color: white !important; 
+    border: 1px solid black !important;
+  }
+  
+  /* Style the tooltip content */
+  .custom-tooltip {
+    color: black;
+    background-color: white;
+    text-align: center;
+    border: transparent !important;
+  }
+  
